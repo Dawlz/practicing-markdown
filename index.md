@@ -24,3 +24,11 @@ for(i = 1; i<=3;i++){
 //Github
 //Github
 ```
+
+- [x] Start exercise
+- [x] Add header
+- [x] Add image
+- [x] add code snippet
+- [x] create task list
+- [ ] create pr
+- [ ] merge pr
