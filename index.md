@@ -5,3 +5,22 @@
 __Note:__ the `!` is __*IMPORTANT*__ when adding images
 
 **Note:** There's no `!` when creating links
+
+**********************************************************************************************************************************************************************
+
+##Adding JS Snippet
+```Javascript
+//in javascript
+for(i = 1; i<=3;i++){
+  for(j = 2; j<=2; j++){
+    console.log("Github")
+  }
+}
+//will print out
+//Github
+//Github
+//Github
+//Github
+//Github
+//Github
+```
